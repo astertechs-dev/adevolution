@@ -1,6 +1,8 @@
 # name
 adevolution
 
+<img src="https://github.com/astertechs-dev/adevolution/blob/main/public/images/adevolution.png" width="512px" alt="image">
+
 ## Overview
 A system built with a tech stack of Next.js (App router), Solidity, and Thirdweb, 
 where users receive rewards for watching advertisements they select.
