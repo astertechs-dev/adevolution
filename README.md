@@ -1,6 +1,4 @@
-# name
-adevolution
-
+# adevolution
 <img src="https://github.com/astertechs-dev/adevolution/blob/main/public/images/adevolution.png" alt="image">
 
 ## Overview
