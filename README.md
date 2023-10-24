@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# name
+adevolution
 
-## Getting Started
+## Overview
+A system built with a tech stack of Next.js (App router), Solidity, and Thirdweb, 
+where users receive rewards for watching advertisements they select.
+By harnessing smart contracts on the blockchain, rewards are automatically distributed based on views and user actions.
 
-First, run the development server:
+## Requirement
+editing...
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Usage
+editing...
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+### Transparency and Trustworthiness
+Transactions on the blockchain are public, making fraudulent activities and tampering extremely challenging, thus easily gaining the trust of users and advertisers. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Customizability and Scalability
+With the properties of smart contracts, it's easy for the platform to evolve with future updates, new ad formats, and the addition of more interactive elements.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Direct User Participation
+Unlike traditional advertising, users actively participate and receive rewards based on their actions, introducing a new form of engagement.
 
-## Learn More
+## Reference
+editing...
 
-To learn more about Next.js, take a look at the following resources:
+## Author
+astertechs
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Licence
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
